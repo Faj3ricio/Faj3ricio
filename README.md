@@ -2,9 +2,9 @@
 
 #### A Data Analist by day ☼ and a Pythonist Community Contributor by night ☾
 
-**Data Analist 📊🦾** &#12299;_working in Data, Reliability Analytics & Automation_
+**Data Analist 📊🦾** &#12299;_working in data, pipelines & data integrity analysis_
 <br/>
-**Nature & Philosophy Enthusiast 🌿📜** &#12299;_specializing in contemplative eco-art and philosophical discourse
+**Nature & Philosophy Enthusiast 🌿📜** &#12299;_nature's wonders provoke deep thoughts about existence and our place in the universe_
 
 - ⚙️ I use daily: `.py`, `.sql`, `.pbix`, `.csv`
 - 🌍 I'm mostly active within the **Python Community**
