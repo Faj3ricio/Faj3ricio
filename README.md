@@ -1,8 +1,8 @@
 ### Hello there 🤖
 
-#### A Data Analist by day ☼ and a Pythonist Community Contributor by night ☾
+#### A Data Engineer by day ☼ and a Pythonist Community Contributor by night ☾
 
-**Data Analist 📊🦾** &#12299;_working in data, pipelines & data integrity analysis_
+**Data Engineer 📊🦾** &#12299;_working in data, pipelines & data integrity analysis_
 <br/>
 **Nature & Philosophy Enthusiast 🌿📜** &#12299;_nature's wonders provoke deep thoughts about existence and our place in the universe_
 
