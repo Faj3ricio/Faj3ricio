@@ -6,7 +6,7 @@
 <br/>
 **Nature & Philosophy Enthusiast 🌿📜** &#12299;_nature's wonders provoke deep thoughts about existence and our place in the universe_
 
-- ⚙️ I use daily: `.py`, `.sql`, `.pbix`, `.csv`
+- ⚙️ I use daily: `.py`, `.sql`, `.pbix`, `.csv`, `.parquet`
 - 🌍 I'm mostly active within the **Python Community**
 - 💬 `ping` me about **'data'**, **'projections'**, **'automations'**, **'development'**, **'ML'**
   
